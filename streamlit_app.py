@@ -1,1 +1,2 @@
-create streamlit_app.py
+Import streamlit
+streamlit.title('my parents new diner')
